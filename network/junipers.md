@@ -17,3 +17,5 @@
 > Default
 
 
+> Info
+{.is-info}
